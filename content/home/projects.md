@@ -75,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-[COVID-19 Epidemiology](http://127.0.0.1:4321/post/covid-19-dashboard/)
+[COVID-19 Epidemiology](https://cxb-epi.netlify.app/post/covid-19-dashboard/)
