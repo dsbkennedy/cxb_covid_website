@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Dashboard"
 subtitle = ""
 
 [content]
@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+[COVID-19 Epidemiology](http://127.0.0.1:4321/post/covid-19-dashboard/)
