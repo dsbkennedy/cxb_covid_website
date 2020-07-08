@@ -76,3 +76,5 @@ subtitle = ""
 +++
 
 [COVID-19 Epidemiology](https://cxb-epi.netlify.app/post/covid-19-dashboard/)
+
+[COVID-19 Healthcare facility capacity](https://worldhealthorg.shinyapps.io/cxb_dru_dashboard/)

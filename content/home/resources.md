@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "SitReps"
+title = "Additional resources"
 subtitle = ""
 
 [content]
@@ -67,7 +67,5 @@ subtitle = ""
  css_class = ""
 +++
 
-
-
-[WHO Bangladesh Rohinyga Crisis](https://www.who.int/bangladesh/emergencies/Rohingyacrisis/bulletin-and-reports)
+[SOPs](https://ln2.sync.com/dl/f29c53860/2hqhzj3x-q476hijz-sf8admz2-9b8793y9)
 
