@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Background"
+title = "WHO Cox's Bazar Epidemiology Hub"
 subtitle = ""
 
 # Showcase personal skills or business features.

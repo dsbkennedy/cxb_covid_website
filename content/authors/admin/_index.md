@@ -1,6 +1,6 @@
 ---
 # Display name
-title: WHO 
+title: Cox's Bazar Epidemiology Hub 
 
 # Username (this should match the folder name)
 authors:
