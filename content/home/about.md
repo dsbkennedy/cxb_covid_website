@@ -13,4 +13,4 @@ title = "Overview"
 author = "admin"
 +++
 
-![](/home/about_files/who_logo.png)
+![](/home/about_files/who_bgd.jpg)![](/home/about_files/bgd_logo.png)

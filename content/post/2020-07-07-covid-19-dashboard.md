@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Dashboard
 author: ''
-date: ''
+date: '2020-07-08'
 slug: covid-19-dashboard
 categories: []
 tags: []
