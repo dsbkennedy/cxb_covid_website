@@ -2,6 +2,7 @@
 title: COVID-19 Dashboard
 author: ''
 date: '2020-07-08'
+showthedate: yes
 slug: covid-19-dashboard
 categories: []
 tags: []
@@ -19,5 +20,5 @@ projects: []
 
 
 
-<iframe width='1750px' height='1250px' src='https://dsbkennedy.github.io/cxb_covid19' >
+<iframe width='100%' height='100%' src='https://dsbkennedy.github.io/cxb_covid19' >
 </iframe>
