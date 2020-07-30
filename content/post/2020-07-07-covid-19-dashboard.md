@@ -20,5 +20,5 @@ projects: []
 
 
 
-<iframe width='100%' height='1750px' src='https://dsbkennedy.github.io/cxb_covid19' >
+<iframe width='100%' height='1300px' src='https://dsbkennedy.github.io/cxb_covid19' >
 </iframe>
