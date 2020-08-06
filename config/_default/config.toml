@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Cox's Bazar Health Data Hub"
+title = "Cox's Bazar Data Hub"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -75,6 +75,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [[params.customCSS]]
  href = "static/academic.css"
+
+ [params]
+    ShowDatesOnPosts = true
 
 # Taxonomies.
 [taxonomies]

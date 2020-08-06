@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cox's Bazar Epidemiology Hub 
+title: Cox's Bazar Health Data Hub
 
 # Username (this should match the folder name)
 authors:
@@ -14,6 +14,7 @@ superuser: true
 # Organizations/Affiliations
 
 # Short bio (displayed in user profile at end of posts)
+#This website brings together healthcare data and resources from Cox's Bazar, Bangladesh. 
 
 
 # Social/Academic Networking
