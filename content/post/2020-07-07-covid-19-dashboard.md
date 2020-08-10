@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Dashboard
 author: ''
-date: '2020-07-08'
+date: 'Dashboard'
 showthedate: false
 slug: covid-19-dashboard
 categories: []
@@ -9,7 +9,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: ''
+lastmod: false
 featured: no
 image:
   caption: ''
