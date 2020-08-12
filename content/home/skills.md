@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "WHO Cox's Bazar Epidemiology Hub"
+title = "WHO Cox's Bazar Data Hub"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -34,4 +34,4 @@ subtitle = ""
 #  description = "90%"
 
 +++
-![](/home/skills_files/who_logo.png)
+![](/home/skills_files/logo_comb.png)

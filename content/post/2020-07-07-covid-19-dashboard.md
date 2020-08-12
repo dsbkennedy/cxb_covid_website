@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Dashboard
 author: ''
-date: 'Dashboard'
+date: '2020'
 showthedate: false
 slug: covid-19-dashboard
 categories: []
