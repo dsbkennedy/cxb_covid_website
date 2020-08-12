@@ -34,4 +34,4 @@ subtitle = ""
 #  description = "90%"
 
 +++
-![](/home/skills_files/logo_comb.png)
+![](/home/skills_files/who_logo.png)
