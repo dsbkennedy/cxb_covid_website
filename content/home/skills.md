@@ -35,4 +35,4 @@ subtitle = ""
 
 +++
 
-![](/home/skills_files/who_logo_resize.png)
+![](/home/skills_files/who_logo_resize.png#center)
