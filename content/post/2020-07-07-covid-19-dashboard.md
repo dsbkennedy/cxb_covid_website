@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Dashboard
 author: ''
-date: '2020'
+date: 'Sys.Date()'
 showthedate: false
 slug: covid-19-dashboard
 categories: []
