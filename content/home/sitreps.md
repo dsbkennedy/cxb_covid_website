@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-
+[Cox’s Bazar Rohingya Camps - Epidemiological Summary](https://ln2.sync.com/dl/f33b85a60/99r3nuhb-zebna3tg-kun4acy3-mvyxqv56)
 
 [WHO Bangladesh Rohinyga Crisis](https://www.who.int/bangladesh/emergencies/Rohingyacrisis/bulletin-and-reports)
 
