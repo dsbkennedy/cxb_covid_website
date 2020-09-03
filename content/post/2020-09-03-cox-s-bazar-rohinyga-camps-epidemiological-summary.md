@@ -19,4 +19,4 @@ projects: []
 
 The Epidemiological summary provides an overview of the data collected across the Rohingya camps in Cox's Bazar. The reports are updated every Tuesday. 
 
-Reports can be found [here](https://ln2.sync.com/dl/f33b85a60/99r3nuhb-zebna3tg-kun4acy3-mvyxqv56)
+Reports can be acessed in the sitreps section of this website.
